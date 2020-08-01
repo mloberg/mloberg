@@ -9,21 +9,22 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2.1.1
-      with:
-        node-version: '12'
-    - uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-    - name: Update dynamic data
-      run: ./update.sh
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: update README with latest links
-        file_pattern: README.md
-        commit_user_name: GitHub Actions
-        commit_user_email: mloberg@users.noreply.github.com
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2.1.1
+        with:
+          node-version: '12'
+      - uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - run: npm ci
+      - name: Update dynamic data
+        run: ./update.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: update README with latest links
+          file_pattern: README.md
+          commit_user_name: GitHub Actions
+          commit_user_email: mloberg@users.noreply.github.com
