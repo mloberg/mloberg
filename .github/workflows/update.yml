@@ -1,0 +1,21 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # run once a night
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: sudo apt-get install jq libxml-xpath-perl
+    - name: Update dynamic data
+      run: ./update.sh
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: update README with latest links
+        file_pattern: README.md
+        commit_user_name: GitHub Actions
+        commit_user_email: mloberg@users.noreply.github.com
