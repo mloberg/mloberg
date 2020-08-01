@@ -7,8 +7,8 @@
 Hi, I'm Matt. I'm a software engineer focusing on Web Development and DevOps.
 
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
-* 🏹 Currently: Senior Software Engineer at [Total Expert]()
-* 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px" style="filter: invert(1);">
+* 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
+* 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * ✏️ Latest post: <!--POST-->[Using Private Go Modules](https://mlo.io/blog/2020/04/14/using-private-go-modules/)<!--/POST-->
 * 💻 Latest commit: <!--COMMIT-->[add AWS SAM CLI](https://github.com/mloberg/dockerfiles/commit/1305a19810334e0f90d541a86d405590ec83dac7) ([mloberg/dockerfiles](https://github.com/mloberg/dockerfiles))<!--/COMMIT-->
 
