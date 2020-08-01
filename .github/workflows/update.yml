@@ -10,8 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install dependencies
-      run: sudo apt-get install jq libxml-xpath-perl
+    - uses: actions/setup-node@v2.1.1
+      with:
+        node-version: '12'
+    - uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
     - name: Update dynamic data
       run: ./update.sh
     - uses: stefanzweifel/git-auto-commit-action@v4

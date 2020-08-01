@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "dependencies": {
+        "rss-parser": "^3.9.0"
+    }
+}

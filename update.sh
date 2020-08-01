@@ -1,13 +1,10 @@
 #!/usr/bin/env bash
-#
-# Update README with some information
-#   Requires xpath (libxml-xpath-perl) and jq
 set -e
 
 # grab latest post
-rss=$(curl -s https://mlo.io/feed.xml)
-title=$(echo "$rss" | xpath -e 'string(/feed/entry[1]/link/@title)' 2>/dev/null)
-link=$(echo "$rss" | xpath -e 'string(/feed/entry[1]/link/@href)' 2>/dev/null)
+rss=$(curl -s https://mlo.io/feed.xml | node rss2Json.js)
+title=$(echo "$rss" | jq -r '.items[0].title')
+link=$(echo "$rss" | jq -r '.items[0].link')
 
 sed -i -E "s~(<!--POST-->).*(<!--/POST-->)~\1[$title]($link)\2~" README.md
 
