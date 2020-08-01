@@ -10,7 +10,7 @@ Hi, I'm Matt. I'm a software engineer focusing on Web Development and DevOps.
 * 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * ✏️ Latest post: <!--POST-->[Using Private Go Modules](https://mlo.io/blog/2020/04/14/using-private-go-modules/)<!--/POST-->
-* 💻 Latest commit: <!--COMMIT-->[add AWS SAM CLI](https://github.com/mloberg/dockerfiles/commit/1305a19810334e0f90d541a86d405590ec83dac7) ([mloberg/dockerfiles](https://github.com/mloberg/dockerfiles))<!--/COMMIT-->
+* 💻 Latest commit: <!--COMMIT-->[update git config](https://github.com/mloberg/dotfiles/commit/c46ca4a88284295079e1aaa702d69bd40e8e761e) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))<!--/COMMIT-->
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
