@@ -4,11 +4,12 @@
 [![Blog](https://img.shields.io/badge/blog-mlo.io-green?style=for-the-badge&logo=jekyll)](https://mlo.io)
 [![Email me](https://img.shields.io/badge/email-matt.loberg%40hey.com-red?style=for-the-badge&logo=hey)](mailto:matt.loberg@hey.com)
 
-Hi, I'm Matt. I'm a software engineer focusing on Web Development and DevOps.
+Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
+* 🏆 AWS DevOps Professional
 * ✏️ Latest post: <!--POST-->[Using Private Go Modules](https://mlo.io/blog/2020/04/14/using-private-go-modules/)<!--/POST-->
 * 💻 Latest commit: <!--COMMIT-->[update git config](https://github.com/mloberg/dotfiles/commit/c46ca4a88284295079e1aaa702d69bd40e8e761e) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))<!--/COMMIT-->
 
