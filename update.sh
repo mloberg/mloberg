@@ -9,12 +9,11 @@ link=$(echo "$feed" | jq -r '.posts[0].link')
 sed -i -E "s~(<!--POST-->).*(<!--/POST-->)~\1[$title]($link)\2~" README.md
 
 # update latest commit
-latest=$(curl -s "https://api.github.com/users/mloberg/events?per_page=5" | jq -r '[
+latest=$(curl -s "https://api.github.com/users/mloberg/events?per_page=100" | jq -r '[
     .[] |
     select(.type == "PushEvent") |
     select(.repo.name != "mloberg/mloberg") |
     select(.repo.name != "mloberg/.github") |
-    select(.repo.name != "mloberg/mlo.io") |
     select(.payload.commits[-1].message | startswith("Merge") | not) |
     { repo: .repo, commit: .payload.commits[-1] }
 ][0]')
