@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: <!--POST-->[Using Private Go Modules](https://mlo.io/blog/2020/04/14/using-private-go-modules/)<!--/POST-->
-* 💻 Latest commit: <!--COMMIT-->[update git config](https://github.com/mloberg/dotfiles/commit/c46ca4a88284295079e1aaa702d69bd40e8e761e) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))<!--/COMMIT-->
+* 💻 Latest commit: <!--COMMIT-->[add feed.json](https://github.com/mloberg/mlo.io/commit/eb5aa8d07c06fc2d41de4da234f536d446d95c26) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))<!--/COMMIT-->
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
