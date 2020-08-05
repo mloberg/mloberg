@@ -10,8 +10,8 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
-* ✏️ Latest post: <!--POST-->[Using Private Go Modules](https://mlo.io/blog/2020/04/14/using-private-go-modules/)<!--/POST-->
-* 💻 Latest commit: <!--COMMIT-->[add feed.json](https://github.com/mloberg/mlo.io/commit/eb5aa8d07c06fc2d41de4da234f536d446d95c26) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))<!--/COMMIT-->
+* ✏️ Latest post: <!--POST-->[Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)<!--/POST-->
+* 💻 Latest commit: <!--COMMIT-->[publish git bisect post](https://github.com/mloberg/mlo.io/commit/9e88e83a36b1490f2ea5bb33717f56e83d5fb4d8) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))<!--/COMMIT-->
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
