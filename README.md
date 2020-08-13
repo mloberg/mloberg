@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: <!--POST-->[Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)<!--/POST-->
-* 💻 Latest commit: <!--COMMIT-->[add golang:1.15](https://github.com/mloberg/dockerfiles/commit/e584f8f6302f51f79d47c2286f41e4d8faadc5ba) ([mloberg/dockerfiles](https://github.com/mloberg/dockerfiles))<!--/COMMIT-->
+* 💻 Latest commit: <!--COMMIT-->[replace github icon](https://github.com/mloberg/mlo.io/commit/b05d0618dcd5009d782f73aa3d20e0fbd4a31011) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))<!--/COMMIT-->
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
