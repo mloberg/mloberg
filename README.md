@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: <!--POST-->[Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)<!--/POST-->
-* 💻 Latest commit: <!--COMMIT-->[add tests for data](https://github.com/mloberg/dwight-discord-bot/commit/f66f763964c7df76c5deb208a0686083720bb7d0) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))<!--/COMMIT-->
+* 💻 Latest commit: <!--COMMIT-->[fix treasure command test](https://github.com/mloberg/dwight-discord-bot/commit/fed1e617bbaff5e67747ca923298ebd9574d49f6) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))<!--/COMMIT-->
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
