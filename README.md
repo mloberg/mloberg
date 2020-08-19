@@ -10,8 +10,8 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
-* ✏️ Latest post: <!--POST-->[Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)<!--/POST-->
-* 💻 Latest commit: <!--COMMIT-->[add titles <!--COMMIT-->[fix npm lint/fix scripts](https://github.com/mloberg/preset-eslint/commit/f9e79c3916b67daea3623492dc686d55e1beb7a3) ([mloberg/preset-eslint](https://github.com/mloberg/preset-eslint))<!--/COMMIT--> ask before replacing files](https://github.com/mloberg/preset-eslint/commit/70c6e256e89354e477d5440ab49e2c90bc8f329a) ([mloberg/preset-eslint](https://github.com/mloberg/preset-eslint))<!--/COMMIT-->
+* ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
+* 💻 Latest commit: [add eslint-plugin-compat](https://github.com/mloberg/gifs/commit/91a198b5359f31fa5826cfc7eef7d4cc8abc24bb) ([mloberg/gifs](https://github.com/mloberg/gifs))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 

@@ -6,7 +6,7 @@ feed=$(curl -s https://mlo.io/feed.json)
 title=$(echo "$feed" | jq -r '.posts[0].title')
 link=$(echo "$feed" | jq -r '.posts[0].link')
 
-sed -i -E "s~(<!--POST-->).*(<!--/POST-->)~\1[$title]($link)\2~" README.md
+sed -i -E "s~Latest post: .*~Latest post: [$title]($link)~" README.md
 
 # update latest commit
 latest=$(curl -s "https://api.github.com/users/mloberg/events?per_page=100" | jq -r '[
@@ -26,4 +26,4 @@ commit=$(echo "$latest" | jq -r '[.commit.message | splits("\n")][0]')
 
 msg="[$commit]($commit_url) ([$repo]($repo_url))"
 
-sed -i -E "s~(<!--COMMIT-->).*(<!--/COMMIT-->)~\1$msg\2~" README.md
+sed -i -E "s~Latest commit: .*~Latest commit: $msg~" README.md
