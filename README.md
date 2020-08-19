@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
-* 💻 Latest commit: [add eslint-plugin-compat](https://github.com/mloberg/gifs/commit/91a198b5359f31fa5826cfc7eef7d4cc8abc24bb) ([mloberg/gifs](https://github.com/mloberg/gifs))
+* 💻 Latest commit: [feat: detect indentation during edit-json](https://github.com/mloberg/use-preset/commit/93d2294efe2aeacc3477858433daa5caaa85eb5d) ([mloberg/use-preset](https://github.com/mloberg/use-preset))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
