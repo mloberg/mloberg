@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
-* 💻 Latest commit: [tailwind: remove deprecated gap utils](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/bf884035452fc3a0bd352a285bcddf394ec91a62) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
+* 💻 Latest commit: [redesign/refactor magic item price calculator](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/6a1545d8272c8ab7276d839784231721f481a1b4) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
