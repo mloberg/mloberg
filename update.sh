@@ -14,6 +14,7 @@ latest=$(curl -s "https://api.github.com/users/mloberg/events?per_page=100" | jq
     select(.type == "PushEvent") |
     select(.repo.name != "mloberg/mloberg") |
     select(.repo.name != "mloberg/.github") |
+    select(.payload.commits | length > 0) |
     select(.payload.commits[-1].message | startswith("Merge") | not) |
     { repo: .repo, commit: .payload.commits[-1] }
 ][0]')
