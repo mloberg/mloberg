@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
-* 💻 Latest commit: [only list command name in help action](https://github.com/mloberg/dwight-discord-bot/commit/238b7d3d31060aa72c0d4a96f38c962108303c4f) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
+* 💻 Latest commit: [opt in to tailwind purgecss changes](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/e486d1e246ca0c891cd7da734543736bdd96f3c4) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
