@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
-* 💻 Latest commit: [style: fix eslint issue](https://github.com/mloberg/daft-discord-bot/commit/19fe960c115f80ac1c3074735de05d822094aa2b) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [fix(play): throw error if no songs are found](https://github.com/mloberg/daft-discord-bot/commit/e34f94910a253d333d126f1f7f11c964db2e8b8c) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
