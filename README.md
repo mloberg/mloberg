@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
-* 💻 Latest commit: [build(docker): keep Prisma files in Docker image](https://github.com/mloberg/daft-discord-bot/commit/bfd3bb6eca3e2d7da57fd7c1a4bd66ad8b05efb4) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [upgrade PostCSS and Webpack Encore](https://github.com/mloberg/mlo.io/commit/ab4354b5e4e970a652ae7f5b4b8b0345b5d3e5f4) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
