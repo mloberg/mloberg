@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
-* 💻 Latest commit: [upgrade PostCSS and Webpack Encore](https://github.com/mloberg/mlo.io/commit/ab4354b5e4e970a652ae7f5b4b8b0345b5d3e5f4) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
+* 💻 Latest commit: [feat: allow mention in addition to prefix](https://github.com/mloberg/daft-discord-bot/commit/ee5f67c308aeb62895af64db2dff404ccdd81a6d) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
