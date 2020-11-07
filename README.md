@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
-* 💻 Latest commit: [chore(deps): upgrade npm packages](https://github.com/mloberg/daft-discord-bot/commit/f7243d6dd8580aacc15143f1d5c91423eb8260ca) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [ci(actions): add cancel workflow to only have one active build per branch](https://github.com/mloberg/daft-discord-bot/commit/19d9c58b44ca389269ad94b668598ec1958befd0) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
