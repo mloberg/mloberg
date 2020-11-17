@@ -10,7 +10,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
-* ✏️ Latest post: [Debugging With Git Bisect](https://mlo.io/blog/2020/08/05/debugging-with-git-bisect/)
+* ✏️ Latest post: []()
 * 💻 Latest commit: [ci(actions): update Azure static web app workflow](https://github.com/mloberg/mlo.io/commit/bb2015e2265a92dab3a23b5002db41a9fc5de30a) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
