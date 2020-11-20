@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: []()
-* 💻 Latest commit: [ci(actions): update Azure static web app workflow](https://github.com/mloberg/mlo.io/commit/bb2015e2265a92dab3a23b5002db41a9fc5de30a) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
+* 💻 Latest commit: [chore(deps): upgrade dependencies](https://github.com/mloberg/daft-discord-bot/commit/39762bb797e01f0954349a3a36c71072367123c1) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
