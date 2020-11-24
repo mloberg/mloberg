@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: []()
-* 💻 Latest commit: [chore(deps): upgrade to Tailwind CSS v2](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/a50ad7692de0470a6f90791b1506114e52fdbc0b) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
+* 💻 Latest commit: [refactor(db): move to PostgreSQL](https://github.com/mloberg/daft-discord-bot/commit/c5b53c574765f6203c884dda576eee5e34c35b49) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
