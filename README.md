@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: []()
-* 💻 Latest commit: [refactor(db): move to PostgreSQL](https://github.com/mloberg/daft-discord-bot/commit/c5b53c574765f6203c884dda576eee5e34c35b49) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [refactor(db): move to PostgreSQL](https://github.com/mloberg/daft-discord-bot/commit/620eca533e7f1d3ca2ebc8459d73b2ea3ae51349) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
