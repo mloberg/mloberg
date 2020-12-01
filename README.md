@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: []()
-* 💻 Latest commit: [build(docker): include web templates in docker image](https://github.com/mloberg/daft-discord-bot/commit/bda7ca3769a328d692829021375b45b365fb6895) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [fix(price-calculator): fix form styling](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/4b9551cbca61eb33a9470c607b3bbf93bdba8bfb) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
