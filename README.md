@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: []()
-* 💻 Latest commit: [fix(price-calculator): fix form styling](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/4b9551cbca61eb33a9470c607b3bbf93bdba8bfb) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
+* 💻 Latest commit: [chore(deps): upgrade dependencies](https://github.com/mloberg/dwight-discord-bot/commit/7d879b35c9924f9a1755198cf10e9e6f6ce98a8f) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
