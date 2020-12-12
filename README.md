@@ -10,8 +10,8 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
-* ✏️ Latest post: []()
-* 💻 Latest commit: [add writing tips and tools post](https://github.com/mloberg/mlo.io/commit/8682380e28fc3663fb2100bd536071a19d4212fa) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
+* ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
+* 💻 Latest commit: [test: fix add command tests](https://github.com/mloberg/daft-discord-bot/commit/7a85307f8ee74ce6d87aa0a166f467715cbe0726) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
