@@ -2,7 +2,7 @@
 set -eux
 
 # grab latest post
-feed=$(curl -s https://mlo.io/feed.json)
+feed=$(curl -sL https://mlo.io/feed.json)
 title=$(echo "$feed" | jq -r '.posts[0].title')
 link=$(echo "$feed" | jq -r '.posts[0].link')
 
