@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [add new secrets page for encrypting/decrypting data](https://github.com/mloberg/mlo.io/commit/a45a5116cad1386966182bb790bba2b08cbed71f) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
+* 💻 Latest commit: [fix secrets page on dark mode](https://github.com/mloberg/mlo.io/commit/92c832284c5ec632ad239672274a1f6c696ddbb0) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
