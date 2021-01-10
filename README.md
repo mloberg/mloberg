@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix secrets page on dark mode](https://github.com/mloberg/mlo.io/commit/92c832284c5ec632ad239672274a1f6c696ddbb0) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
+* 💻 Latest commit: [zsh: change visual editor to vscode](https://github.com/mloberg/dotfiles/commit/8599ba63bed43d5dd9daaec866f1a0c76786d5fd) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
