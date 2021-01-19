@@ -4,10 +4,10 @@
 [![Blog](https://img.shields.io/badge/blog-mlo.io-green?style=for-the-badge&logo=jekyll)](https://mlo.io)
 [![Email me](https://img.shields.io/badge/email-matt.loberg%40hey.com-red?style=for-the-badge&logo=hey)](mailto:matt.loberg@hey.com)
 
-Hi, I'm Matt. I'm a software engineer focusing on web development and DevOps.
+Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
-* 🏹 Currently: Senior Software Engineer at [Total Expert](https://totalexpert.com/careers/)
+* 🏹 Currently: Platform Engineer at [Articulate](https://articulate.com/company/careers)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
