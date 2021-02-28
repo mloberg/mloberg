@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build(npm): keep npm at 6](https://github.com/mloberg/daft-discord-bot/commit/1e6ab28a9364e6b2a29a51371e99305f5a6d6669) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [clean up aliases](https://github.com/mloberg/dotfiles/commit/00b2e682041e7a5fd198f234401084eaaeecf02a) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
