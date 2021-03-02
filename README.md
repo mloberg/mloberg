@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [configure fzf](https://github.com/mloberg/dotfiles/commit/93db880af1537b55f99f4aeb4c8ffdaa9eaf4953) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
+* 💻 Latest commit: [feat(playlist): add commands to create and play playlists](https://github.com/mloberg/daft-discord-bot/commit/814fd958cf25c225582f073cbb5b55f53c7e1635) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
