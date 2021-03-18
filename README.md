@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [address shellcheck warnings](https://github.com/articulate/datapipeline-scripts/commit/e77267a23aa61ad005f259f79e2c9d60740067c0) ([articulate/datapipeline-scripts](https://github.com/articulate/datapipeline-scripts))
+* 💻 Latest commit: [address shellcheck warnings](https://github.com/articulate/datapipeline-scripts/commit/f6d7da98da62c631082e4c51424f1e949bd7b317) ([articulate/datapipeline-scripts](https://github.com/articulate/datapipeline-scripts))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
