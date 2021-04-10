@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [chore: rename action to be unique](https://github.com/articulate/actions-markdownlint/commit/17b8abe7407cd17590c006ecc837c35e1ac3ed83) ([articulate/actions-markdownlint](https://github.com/articulate/actions-markdownlint))
+* 💻 Latest commit: [add eslint](https://github.com/mloberg/jekyll-starter/commit/9be564cd5b5491c7608120aaa40019873cc6bcec) ([mloberg/jekyll-starter](https://github.com/mloberg/jekyll-starter))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
