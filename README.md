@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [chore(deps): upgrade npm dependencies](https://github.com/mloberg/dwight-discord-bot/commit/0c627352e14ae8deb0e4ef8b97a1c85ca7ed4651) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
+* 💻 Latest commit: [feat(commands): allow arguments to be parsed with regex](https://github.com/mloberg/dwight-discord-bot/commit/b2092159301557d1b184d1534c0fa0523ff585df) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
