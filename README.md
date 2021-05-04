@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix git-release script](https://github.com/mloberg/dotfiles/commit/d136e6656f1751b146a4c04c5e0ec72603c4045e) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
+* 💻 Latest commit: [ci: split test and publish workflows](https://github.com/mloberg/dwight-discord-bot/commit/e294d8d38f37f98ef01adda4c03f61f8bdaf9df5) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
