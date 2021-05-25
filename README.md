@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [firefox: open tab to right of active tab](https://github.com/mloberg/dotfiles/commit/20d015476adb1168de4dc7349116d0853d3981d5) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
+* 💻 Latest commit: [build(npm): update npm packages](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/f78738b87eb6dd1f2da304c1543b83a512c78a07) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
