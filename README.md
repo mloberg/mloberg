@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(sites): fix ListSite api format](https://github.com/articulate/ohdear-sdk/commit/08350e469d841001b75ca515f660246d4daf4597) ([articulate/ohdear-sdk](https://github.com/articulate/ohdear-sdk))
+* 💻 Latest commit: [install aws cli v2 and remove python from install.sh](https://github.com/articulate/docker-consul-template-bootstrap/commit/fc2169e0c0cb83bf83d5c707bbfbab253c512b24) ([articulate/docker-consul-template-bootstrap](https://github.com/articulate/docker-consul-template-bootstrap))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
