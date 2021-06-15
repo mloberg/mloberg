@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci: switch to GitHub Actions](https://github.com/articulate/docker-consul-template-bootstrap/commit/e7d27df030ca92526213d6909c7f7d5ec1aa5401) ([articulate/docker-consul-template-bootstrap](https://github.com/articulate/docker-consul-template-bootstrap))
+* 💻 Latest commit: [ci: switch to GitHub Actions](https://github.com/articulate/docker-consul-template-bootstrap/commit/1cc59361d8217c1405e996f2555a5ce6376187fc) ([articulate/docker-consul-template-bootstrap](https://github.com/articulate/docker-consul-template-bootstrap))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
