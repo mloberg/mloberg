@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci: run acceptance tests](https://github.com/articulate/terraform-provider-ohdear/commit/b31a71fb997007f0dfe0c78251b3d28c27a00edb) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
+* 💻 Latest commit: [ci: run acceptance tests](https://github.com/articulate/terraform-provider-ohdear/commit/dc8ed3e595351686996afedad1d680fde2cf23cf) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
