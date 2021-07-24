@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [chore(legal): update company name](https://github.com/articulate/actions-markdownlint/commit/d58d47b4ce909016e700e8b6f2f73ced62f0091e) ([articulate/actions-markdownlint](https://github.com/articulate/actions-markdownlint))
+* 💻 Latest commit: [chore(dx): add golangci-lint to Docker dev environment](https://github.com/articulate/terraform-provider-ohdear/commit/e498ba195155e637cd52b77e3f97fd2dc56a4f36) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
