@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build(npm): upgrade packages](https://github.com/mloberg/gifs/commit/0b20a2cc2fa7d2346f0fcbecdaf81db011c08646) ([mloberg/gifs](https://github.com/mloberg/gifs))
+* 💻 Latest commit: [build(npm): upgrade AlpineJS](https://github.com/mloberg/gifs/commit/c0e229615758c6e449e13a5d9b2c78a1cdfdfb61) ([mloberg/gifs](https://github.com/mloberg/gifs))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
