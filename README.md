@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci: build Docker images with GitHub Actions](https://github.com/articulate/docker-articulate-golang/commit/7f38d7bfb3685d7711f704e5ad0edbc409b57d85) ([articulate/docker-articulate-golang](https://github.com/articulate/docker-articulate-golang))
+* 💻 Latest commit: [build(npm): update dependencies](https://github.com/mloberg/mlo.io/commit/8573ff8727c12daf2a689adebf2248ba932e4c0f) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
