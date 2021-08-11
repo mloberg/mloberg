@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(portent): portent show no longer errors when there is no data](https://github.com/mloberg/dwight-discord-bot/commit/1f0d79e67f319d5898df916acc88955436e4a5f6) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
+* 💻 Latest commit: [fix(discord.js): update for discord.js v13](https://github.com/mloberg/dwight-discord-bot/commit/862f096811cb413f1a298fe862e78e864d868ca5) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
