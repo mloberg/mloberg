@@ -2,12 +2,12 @@
 
 [![Twitter](https://img.shields.io/badge/twitter-@mloberg-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mloberg/)
 [![Blog](https://img.shields.io/badge/blog-mlo.io-green?style=for-the-badge&logo=jekyll)](https://mlo.io)
-[![Email me](https://img.shields.io/badge/email-matt.loberg%40hey.com-red?style=for-the-badge&logo=hey)](mailto:matt.loberg@hey.com)
+[![Email me](https://img.shields.io/badge/email-hey%40mlo.io-red?style=for-the-badge&logo=protonmail)](mailto:hey@mlo.io)
 
 Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
-* 🏹 Currently: Platform Engineer at [Articulate](https://articulate.com/company/careers)
+* 🏹 Currently: Senior Platform Engineer at [Articulate](https://articulate.com/company/careers)
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
@@ -15,13 +15,13 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
-## competencies
+## Competencies
 
-![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-javascript-333?style=for-the-badge&logo=javascript)
-![Go](https://img.shields.io/badge/-go-333?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/-python-333?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/-typescript-333?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/-go-333?style=for-the-badge&logo=go)
+![PHP](https://img.shields.io/badge/-php-333?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-python-333?style=for-the-badge&logo=python)
 ![Docker](https://img.shields.io/badge/-docker-333?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/-aws-333?style=for-the-badge&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-git-333?style=for-the-badge&logo=git)
@@ -29,16 +29,13 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 ![API Design](https://img.shields.io/badge/-api%20design-333?style=for-the-badge&logo=openapi-initiative)
 & More
 
-## interests
+## Interests
 
 ![Privacy](https://img.shields.io/badge/-privacy-333?style=for-the-badge&logo=gnu-privacy-guard)
 ![Open Source](https://img.shields.io/badge/-open%20source-333?style=for-the-badge&logo=open-source-initiative)
-![Jekyll](https://img.shields.io/badge/-jekyll-333?style=for-the-badge&logo=jekyll)
-![Tailwind CSS](https://img.shields.io/badge/-tailwind%20css-333?style=for-the-badge&logo=tailwind-css)
-![Serverless](https://img.shields.io/badge/-serverless-333?style=for-the-badge&logo=serverless)
-![Vue](https://img.shields.io/badge/-vue-333?style=for-the-badge&logo=vue.js)
+![DevOps](https://img.shields.io/badge/-DevOps-333?style=for-the-badge&logo=azure-devops)
 
-## hobbies
+## Hobbies
 
 ![Board games](https://img.shields.io/badge/-board%20games-333?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNjRwdCIgaGVpZ2h0PSI2NHB0IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHZlcnNpb249IjEuMSI+CjxnIGlkPSJzdXJmYWNlMSI+CjxwYXRoIHN0eWxlPSIgc3Ryb2tlOm5vbmU7ZmlsbC1ydWxlOmV2ZW5vZGQ7ZmlsbDpyZ2IoMTAwJSwxMDAlLDEwMCUpO2ZpbGwtb3BhY2l0eToxOyIgZD0iTSA2My45OTYwOTQgMjcuNTMxMjUgQyA2NC4zNjMyODEgMTguNzI2NTYyIDQzLjI4OTA2MiAxNC40NDE0MDYgNDIuMzc1IDEzLjQzNzUgQyA0MS45MjE4NzUgMTIuOTM3NSA0My40Mjk2ODggLTAuMDA3ODEyNSAzMiAwIEMgMjAuNTcwMzEyIC0wLjAwNzgxMjUgMjIuMDc4MTI1IDEyLjkzNzUgMjEuNjI1IDEzLjQzNzUgQyAyMC43MTA5MzggMTQuNDQxNDA2IC0wLjM2MzI4MSAxOC43MjY1NjIgMC4wMDM5MDYyNSAyNy41MzEyNSBDIDAuMzc1IDM2LjMzNTkzOCAxMS41NTg1OTQgMzEuODE2NDA2IDEzLjk0MTQwNiAzNC40MDYyNSBDIDE2LjAzMTI1IDM2LjY3NTc4MSA0LjE2NDA2MiA1MS4xOTE0MDYgMi44MzU5MzggNjAuNDE0MDYyIEMgMi40MDYyNSA2My40MTc5NjkgMy4yNSA2NCA2LjE2Nzk2OSA2NCBDIDExLjQ2NDg0NCA2NCAxNi41MjM0MzggNjMuOTk2MDk0IDIxLjE3OTY4OCA2My45OTYwOTQgQyAyMy4yODEyNSA2My45OTYwOTQgMjQuMDMxMjUgNjIuNzg5MDYyIDI1LjExNzE4OCA2MS4xMjEwOTQgQyAyNy41MTk1MzEgNTcuNDMzNTk0IDMwLjQyMTg3NSA1MS41MDc4MTIgMzIgNTEuNTA3ODEyIEMgMzMuNTc4MTI1IDUxLjUwNzgxMiAzNi40ODA0NjkgNTcuNDMzNTk0IDM4Ljg4MjgxMiA2MS4xMjEwOTQgQyAzOS45Njg3NSA2Mi43ODkwNjIgNDAuNzE0ODQ0IDYzLjk5NjA5NCA0Mi44MjAzMTIgNjMuOTk2MDk0IEMgNDcuNDc2NTYyIDYzLjk5NjA5NCA1Mi41MzEyNSA2NCA1Ny44MjgxMjUgNjQgQyA2MC43NSA2NCA2MS41OTM3NSA2My40MTc5NjkgNjEuMTY0MDYyIDYwLjQxMDE1NiBDIDU5LjgzNTkzOCA1MS4xOTE0MDYgNDcuOTcyNjU2IDM2LjY3NTc4MSA1MC4wNTQ2ODggMzQuNDA2MjUgQyA1Mi40NDE0MDYgMzEuODE2NDA2IDYzLjYyNSAzNi4zMzU5MzggNjMuOTk2MDk0IDI3LjUzMTI1IFogTSA2My45OTYwOTQgMjcuNTMxMjUgIi8+CjwvZz4KPC9zdmc+Cg==)
 [![D&D](https://img.shields.io/badge/-d%26d-333?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNjRwdCIgaGVpZ2h0PSI2NHB0IiB2aWV3Qm94PSIwIDAgNjQgNjQiIHZlcnNpb249IjEuMSI+CjxnIGlkPSJzdXJmYWNlMSI+CjxwYXRoIHN0eWxlPSIgc3Ryb2tlOm5vbmU7ZmlsbC1ydWxlOm5vbnplcm87ZmlsbDpyZ2IoMTAwJSwxMDAlLDEwMCUpO2ZpbGwtb3BhY2l0eToxOyIgZD0iTSAzMiAzLjE5OTIxOSBMIDcuMDU4NTk0IDE3LjYwMTU2MiBMIDcuMDU4NTk0IDQ2LjM5ODQzOCBMIDcuODgyODEyIDQ2Ljg3ODkwNiBMIDMyIDYwLjgwMDc4MSBMIDU2Ljk0MTQwNiA0Ni4zOTg0MzggTCA1Ni45NDE0MDYgMTcuNjAxNTYyIFogTSAzMiA4LjA2MjUgTCA0MS45NjA5MzggMjIuNzk2ODc1IEwgMjIuMDM5MDYyIDIyLjc5Njg3NSBaIE0gMjYuNjA5Mzc1IDEwLjEzMjgxMiBMIDE4LjQxNzk2OSAyMi4yNSBMIDEyLjAxOTUzMSAxOC41NTQ2ODggWiBNIDM3LjM5NDUzMSAxMC4xMzI4MTIgTCA1MS45ODA0NjkgMTguNTU0Njg4IEwgNDUuNTg1OTM4IDIyLjI0NjA5NCBaIE0gMTAuMzY3MTg4IDIxLjQxNzk2OSBMIDE2Ljc2NTYyNSAyNS4xMTMyODEgTCAxMC4zNjcxODggMzguMjY1NjI1IFogTSA1My42MzI4MTIgMjEuNDE3OTY5IEwgNTMuNjMyODEyIDM4LjI2NTYyNSBMIDQ3LjIzNDM3NSAyNS4xMTMyODEgWiBNIDIxLjc4OTA2MiAyNi4xMDE1NjIgTCA0Mi4yMTA5MzggMjYuMTAxNTYyIEwgMzIgNDMuNzg5MDYyIFogTSAxOS4wNDY4NzUgMjcuOTcyNjU2IEwgMjkuMDExNzE5IDQ1LjIyNjU2MiBMIDExLjI2OTUzMSA0My45Njg3NSBaIE0gNDQuOTUzMTI1IDI3Ljk3MjY1NiBMIDUyLjczMDQ2OSA0My45Njg3NSBMIDM0Ljk4ODI4MSA0NS4yMjY1NjIgWiBNIDE1Ljc1NzgxMiA0Ny42MDE1NjIgTCAzMC4zNDc2NTYgNDguNjQwNjI1IEwgMzAuMzQ3NjU2IDU2LjAyNzM0NCBaIE0gNDguMjQ2MDk0IDQ3LjYwMTU2MiBMIDMzLjY1MjM0NCA1Ni4wMjczNDQgTCAzMy42NTIzNDQgNDguNjQwNjI1IFogTSA0OC4yNDYwOTQgNDcuNjAxNTYyICIvPgo8L2c+Cjwvc3ZnPgo=)](https://everlastingdungeons.com/)
