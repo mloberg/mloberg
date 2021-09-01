@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [style(eslint): add additional eslint plugins](https://github.com/mloberg/dwight-discord-bot/commit/a79d19a4a4050967141454576fa735f0f8710368) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
+* 💻 Latest commit: [chore(cleanup): remove docker-compose](https://github.com/articulate/docker-articulate-node-images/commit/8de3de1cda4e5b99b43911b1d02c91adb53449a3) ([articulate/docker-articulate-node-images](https://github.com/articulate/docker-articulate-node-images))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
