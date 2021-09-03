@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [chore(make): add Makefile to match what we're doing in other Docker repos](https://github.com/articulate/docker-articulate-ruby/commit/35289ff42b8bdea170bde6ac2db8c761d7657c4f) ([articulate/docker-articulate-ruby](https://github.com/articulate/docker-articulate-ruby))
+* 💻 Latest commit: [build(typescript): upgrade to TypeScript 4.4](https://github.com/mloberg/daft-discord-bot/commit/aa8a2e02ea2fb67ee0246bb44dd1f2bc469221f5) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
