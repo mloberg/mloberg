@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build(typescript): upgrade to TypeScript 4.4](https://github.com/mloberg/daft-discord-bot/commit/aa8a2e02ea2fb67ee0246bb44dd1f2bc469221f5) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [feat: add a command for pulling cards from a Deck of Many Things](https://github.com/mloberg/dwight-discord-bot/commit/43e2f95236f1fb2a28553bef747b6adef5884801) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
