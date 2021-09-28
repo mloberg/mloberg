@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [chore: mark module as deprecated](https://github.com/articulate/ohdear-sdk/commit/badd39192b8b7e2b5fcbf7c5be58f2dcf0a4c396) ([articulate/ohdear-sdk](https://github.com/articulate/ohdear-sdk))
+* 💻 Latest commit: [refactor(provider): move provider to internal namespace](https://github.com/articulate/terraform-provider-ohdear/commit/e84d41137774fc96b4d64707707a14c6cd072708) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
