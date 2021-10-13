@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [feat(slack): remove Slack request logic](https://github.com/articulate/shush/commit/8efca4884f0d755695c9269dbfbcfce31929eaef) ([articulate/shush](https://github.com/articulate/shush))
+* 💻 Latest commit: [feat(npm): add more global npm packages](https://github.com/mloberg/dotfiles/commit/3f47302c5ada440e0fca430ba53a1b238f81a068) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
