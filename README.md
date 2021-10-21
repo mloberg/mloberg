@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [refactor(config): set default port to 3000](https://github.com/articulate/shush/commit/d05b7f52ebc4d55449c21a01e2f7d0f46bf61f4c) ([articulate/shush](https://github.com/articulate/shush))
+* 💻 Latest commit: [build(npm): upgrade jest and ts-jest to latest](https://github.com/mloberg/dwight-discord-bot/commit/3242f66661510354d3259240414300a5465b82fb) ([mloberg/dwight-discord-bot](https://github.com/mloberg/dwight-discord-bot))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
