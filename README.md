@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(awscli): remove archive after installing awscli](https://github.com/articulate/docker-consul-template-bootstrap/commit/b32222999871319c0be1a7543bdc691e97332eb3) ([articulate/docker-consul-template-bootstrap](https://github.com/articulate/docker-consul-template-bootstrap))
+* 💻 Latest commit: [refactor: cleanup install of vips and gifsicle](https://github.com/articulate/docker-articulate-node-images/commit/945b2e8d5d283eb10bd9a57670c1c91d26a601b5) ([articulate/docker-articulate-node-images](https://github.com/articulate/docker-articulate-node-images))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
