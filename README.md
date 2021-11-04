@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [refactor: cleanup install of vips and gifsicle](https://github.com/articulate/docker-articulate-node-images/commit/945b2e8d5d283eb10bd9a57670c1c91d26a601b5) ([articulate/docker-articulate-node-images](https://github.com/articulate/docker-articulate-node-images))
+* 💻 Latest commit: [ci(github): add Pull Request template to help add new images](https://github.com/articulate/docker-articulate-node-images/commit/977e2b505c348305aabf420488817c36adf15969) ([articulate/docker-articulate-node-images](https://github.com/articulate/docker-articulate-node-images))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
