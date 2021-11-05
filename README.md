@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci(github): add Pull Request template to help add new images](https://github.com/articulate/docker-articulate-node-images/commit/977e2b505c348305aabf420488817c36adf15969) ([articulate/docker-articulate-node-images](https://github.com/articulate/docker-articulate-node-images))
+* 💻 Latest commit: [refactor(ohdear): use resty.SetBaseURL instead of SetHostURL](https://github.com/articulate/terraform-provider-ohdear/commit/faa3a4fdef99325c06ce8a65e7f56061a19e71f8) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
