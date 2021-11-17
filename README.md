@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(node-gyp): install python for node-gyp](https://github.com/articulate/docker-articulate-node/commit/0d6449349329f24a5dfd21ec5420963f510fea29) ([articulate/docker-articulate-node](https://github.com/articulate/docker-articulate-node))
+* 💻 Latest commit: [fix(lambda): upgrade npm before installing any packages](https://github.com/articulate/docker-articulate-node/commit/0cd4ced6766dc49a02ee92757a57e1202f508cb2) ([articulate/docker-articulate-node](https://github.com/articulate/docker-articulate-node))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
