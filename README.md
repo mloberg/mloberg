@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build(gomod): update go-resty](https://github.com/mloberg/boardgames/commit/c4c7deb3e1845911ea0fa08b6ce5dc1a43ac6a14) ([mloberg/boardgames](https://github.com/mloberg/boardgames))
+* 💻 Latest commit: [feat(index): add flag to delete all documents](https://github.com/mloberg/boardgames/commit/fdaf661197f2c950015521c199243a440dc4f844) ([mloberg/boardgames](https://github.com/mloberg/boardgames))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
