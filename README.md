@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [feat(index): add flag to delete all documents](https://github.com/mloberg/boardgames/commit/fdaf661197f2c950015521c199243a440dc4f844) ([mloberg/boardgames](https://github.com/mloberg/boardgames))
+* 💻 Latest commit: [ci(test): use latest version of Terraform 1.0](https://github.com/articulate/terraform-provider-ohdear/commit/67ea486c9764a7caccedcb6d54ae06fd669af7fe) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
