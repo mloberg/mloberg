@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci(deploy): use openid connect for AWS creds](https://github.com/mloberg/boardgames/commit/7ba435ef228375af33e44e1d9838406b30f78039) ([mloberg/boardgames](https://github.com/mloberg/boardgames))
+* 💻 Latest commit: [ci(test): add 1.1 build to test matrix](https://github.com/articulate/terraform-provider-ohdear/commit/4d7abad498040e5f1c56b154e482840921078040) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
