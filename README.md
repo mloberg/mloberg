@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci: add Action workflow to build to DockerHub](https://github.com/articulate/docker-http-to-https/commit/40ee00a3c11f65653423f9115552942908f72fd3) ([articulate/docker-http-to-https](https://github.com/articulate/docker-http-to-https))
+* 💻 Latest commit: [fix(service): update meilisearch no analytics env var for 0.25](https://github.com/mloberg/dotfiles/commit/24ff1f39908ad29bdf35dba2847577b4388a3081) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
