@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(play): return error if command not ran in a guild](https://github.com/mloberg/daft-discord-bot/commit/0bbca9a861f54e98fc0571a1cb24df9c74b03cb3) ([mloberg/daft-discord-bot](https://github.com/mloberg/daft-discord-bot))
+* 💻 Latest commit: [build(gomod): update cobra and meilisearch to latest](https://github.com/mloberg/boardgames/commit/edee9eb5d5923264245b207928e1697688560ad8) ([mloberg/boardgames](https://github.com/mloberg/boardgames))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
