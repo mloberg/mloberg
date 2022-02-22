@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [docs: add CONTRIBUTING guide](https://github.com/articulate/aws-eventbridge-action/commit/14db28ba87049f58f9f7e7685e74e19abad63f7d) ([articulate/aws-eventbridge-action](https://github.com/articulate/aws-eventbridge-action))
+* 💻 Latest commit: [chore(dist): rebuild package](https://github.com/articulate/aws-eventbridge-action/commit/74a3c88e7f226ec48b186923cfa259948f9d3edb) ([articulate/aws-eventbridge-action](https://github.com/articulate/aws-eventbridge-action))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
