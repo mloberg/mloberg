@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(layout): fix z-index for hero image](https://github.com/mloberg/tome-of-everlasting-dungeons/commit/1889e0f272b44aaa260a9ebd8d92c9ce514e9873) ([mloberg/tome-of-everlasting-dungeons](https://github.com/mloberg/tome-of-everlasting-dungeons))
+* 💻 Latest commit: [chore(dist): repackage dist](https://github.com/articulate/aws-eventbridge-action/commit/3f5a11547bf905a645bb1336a7770fbad7eb3a59) ([articulate/aws-eventbridge-action](https://github.com/articulate/aws-eventbridge-action))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
