@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(magic-items): fix description of tan bag of tricks](https://github.com/mloberg/5e-database/commit/f4bb40cc753b37dba4743451714984e4ed42deaf) ([mloberg/5e-database](https://github.com/mloberg/5e-database))
+* 💻 Latest commit: [feat(equipment-categories): add new variants](https://github.com/mloberg/5e-database/commit/5f7aec7952f5d209352a18c4ea0bd0ad1249e7ba) ([mloberg/5e-database](https://github.com/mloberg/5e-database))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
