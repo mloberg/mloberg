@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [style: disable top level await lint rule](https://github.com/articulate/aws-eventbridge-action/commit/78f032e36e7587d5454f293ae4f4bbf5ed330c45) ([articulate/aws-eventbridge-action](https://github.com/articulate/aws-eventbridge-action))
+* 💻 Latest commit: [feat(go): add alias to show outdated modules](https://github.com/mloberg/dotfiles/commit/00b23a43f8d035d321f8835feb809a6121661938) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
