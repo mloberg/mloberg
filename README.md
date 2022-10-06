@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci(actions): migrate to GitHub Actions (#41)](https://github.com/articulate/funky/commit/8936c0bc3ebb84b9359f313a7e1af94dc61b2a8d) ([articulate/funky](https://github.com/articulate/funky))
+* 💻 Latest commit: [feat(entrypoint): adds support for Vault auth from Lambda](https://github.com/articulate/docker-consul-template-bootstrap/commit/aac80d8acca4d3b2c9e0472eb53e3bf3a0bd535b) ([articulate/docker-consul-template-bootstrap](https://github.com/articulate/docker-consul-template-bootstrap))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
