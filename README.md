@@ -11,7 +11,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps.
 * 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
 * 🏆 AWS DevOps Professional
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [feat: use new docker-consul-bootstrap entrypoint](https://github.com/articulate/docker-articulate-golang/commit/b64eb7c5ca748a8cd242fd07ceb9f99e865d1ba0) ([articulate/docker-articulate-golang](https://github.com/articulate/docker-articulate-golang))
+* 💻 Latest commit: [ci: update actions to latest version](https://github.com/articulate/aws-eventbridge-action/commit/de557056bca1ef955121bc1e18c46a05badd9ec0) ([articulate/aws-eventbridge-action](https://github.com/articulate/aws-eventbridge-action))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
