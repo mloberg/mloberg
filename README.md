@@ -1,17 +1,14 @@
 # hello world 👋
 
-[![Twitter](https://img.shields.io/badge/twitter-@mloberg-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mloberg/)
+[![Twitter](https://img.shields.io/badge/twitter-@mloberg-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mloberg)
 [![Blog](https://img.shields.io/badge/blog-mlo.io-green?style=for-the-badge&logo=jekyll)](https://mlo.io)
-[![Email me](https://img.shields.io/badge/email-hey%40mlo.io-red?style=for-the-badge&logo=protonmail)](mailto:hey@mlo.io)
 
-Hi, I'm Matt. I'm a software engineer focusing on DevOps.
+Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadership.
 
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
-* 🏹 Currently: Senior Platform Engineer at [Articulate](https://articulate.com/company/careers)
-* 🌱 Learning: Rust <img src="https://simpleicons.org/icons/rust.svg" alt="Rust" height="16px">
-* 🏆 AWS DevOps Professional
+* 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci(release): replace deprecated import gpg action (#32)](https://github.com/articulate/terraform-provider-validation/commit/331671effd3b63ecf4c5cab6fa288c7befc3be2c) ([articulate/terraform-provider-validation](https://github.com/articulate/terraform-provider-validation))
+* 💻 Latest commit: [fix: set PWD](https://github.com/articulate/docker-consul-template-bootstrap/commit/677f5b0e120064350f63a84cbfc3c7b673315a9e) ([articulate/docker-consul-template-bootstrap](https://github.com/articulate/docker-consul-template-bootstrap))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 

@@ -14,10 +14,12 @@ latest=$(curl -s "https://api.github.com/users/mloberg/events?per_page=100" | jq
     select(.type == "PushEvent") |
     select(.repo.name != "mloberg/mloberg") |
     select(.repo.name != "mloberg/.github") |
-    select(.payload.commits | length > 0) |
-    select(.payload.commits[-1].message | startswith("Merge") | not) |
-    select(.payload.commits[-1].author.name | contains("[bot]") | not) |
-    { repo: .repo, commit: .payload.commits[-1] }
+    .repo as $repo | (
+        .payload.commits[] |
+        select(.message | startswith("Merge") | not) |
+        select(.author.name | contains("[bot]") | not) |
+        { repo: $repo, commit: . }
+    )
 ][0]')
 [ "$latest" == "null" ] && exit 0
 repo_url=$(curl -s "$(echo "$latest" | jq -r '.repo.url')" | jq -r '.html_url')
