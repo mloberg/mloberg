@@ -8,7 +8,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadershi
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix: set PWD](https://github.com/articulate/docker-consul-template-bootstrap/commit/677f5b0e120064350f63a84cbfc3c7b673315a9e) ([articulate/docker-consul-template-bootstrap](https://github.com/articulate/docker-consul-template-bootstrap))
+* 💻 Latest commit: [ci(release): switch to maintained import-gpg action (#77)](https://github.com/articulate/terraform-provider-ohdear/commit/48ff5f1ac1db5086cb2273ffb66a77c8fa3332d0) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
