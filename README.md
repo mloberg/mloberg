@@ -8,7 +8,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadershi
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci(release): fix import-gpg inputs (#78)](https://github.com/articulate/terraform-provider-ohdear/commit/1a728023886921949af5e02879c510ecf31cdba7) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
+* 💻 Latest commit: [ci(dependabot): get dependency updates monthly instead of weekly (#338)](https://github.com/articulate/aws-eventbridge-action/commit/2b27ef8bdacac56d38fbe3fc5f63576cab32a7d8) ([articulate/aws-eventbridge-action](https://github.com/articulate/aws-eventbridge-action))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
