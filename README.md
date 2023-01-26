@@ -8,7 +8,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadershi
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [docs: add callout that this provider is deprecated (#35)](https://github.com/articulate/terraform-provider-validation/commit/ca9cf2e7eeb67cd55b334c21e2382d3b56fa1d92) ([articulate/terraform-provider-validation](https://github.com/articulate/terraform-provider-validation))
+* 💻 Latest commit: [chore(awscli): pin installed version](https://github.com/articulate/docker-articulate-golang/commit/4aee1861d4bbd2113ca80262dd489ae27ee125b8) ([articulate/docker-articulate-golang](https://github.com/articulate/docker-articulate-golang))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
