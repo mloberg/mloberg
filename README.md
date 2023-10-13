@@ -8,7 +8,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadershi
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build(scripts): updates awscli to version 2.11.15](https://github.com/articulate/docker-bootstrap/commit/a6f35f49b4eb35a9196c4519f5635811f94da799) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
+* 💻 Latest commit: [feat!: don't load products and apps paths](https://github.com/articulate/docker-bootstrap/commit/e8b4b44a487366972271a6644a15c89e23d859d5) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
