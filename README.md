@@ -8,7 +8,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadershi
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [fix(zsh): fix repo command to work with op](https://github.com/mloberg/dotfiles/commit/44d29a3922ec571bf4c2a044b313b68a3729b665) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
+* 💻 Latest commit: [docs(readme): add deprecation warning](https://github.com/articulate/aws-eventbridge-action/commit/c437233f1e5e75ef534f6c93c05c68c83135c167) ([articulate/aws-eventbridge-action](https://github.com/articulate/aws-eventbridge-action))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
