@@ -8,7 +8,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadershi
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build(npm): update frontend build dependencies](https://github.com/mloberg/gifs/commit/ceaf42a287eb7f30b13dc383163a812f9738d7e3) ([mloberg/gifs](https://github.com/mloberg/gifs))
+* 💻 Latest commit: [ci(dependabot): update monthly](https://github.com/mloberg/gifs/commit/9a27befed0f96fca408181b51fffd5b4446f2bf6) ([mloberg/gifs](https://github.com/mloberg/gifs))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
