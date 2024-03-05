@@ -8,7 +8,7 @@ Hi, I'm Matt. I'm a software engineer focusing on DevOps and technical leadershi
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Senior Platform Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [style(perfsprint): replace fmt.Sprintf with faster alternatives](https://github.com/articulate/docker-bootstrap/commit/b03376ddcb5afae3d81465cbf91d0605c2f875c4) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
+* 💻 Latest commit: [ci(build): add job to sync readme to dockerhub](https://github.com/articulate/docker-elixir/commit/f8466e8aeccfc503525385f2d912c5b6296df8d0) ([articulate/docker-elixir](https://github.com/articulate/docker-elixir))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
