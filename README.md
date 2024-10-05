@@ -9,7 +9,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build: upgrade to node 22](https://github.com/mloberg/mlo.io/commit/deac67e7583472ab53f384480eb6a6da978b7fe1) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
+* 💻 Latest commit: [build: upgrade to ruby 3.3](https://github.com/mloberg/mlo.io/commit/9048a9b60f58ccc40ec63b1f27eb6db8ef961901) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
