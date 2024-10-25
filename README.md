@@ -9,7 +9,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [build: upgrade to ruby 3.3](https://github.com/mloberg/mlo.io/commit/9048a9b60f58ccc40ec63b1f27eb6db8ef961901) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
+* 💻 Latest commit: [ci(dependabot): set commit prefix to support release process (#132)](https://github.com/articulate/terraform-provider-ohdear/commit/8874c67d2c55cf77fb35135329fcead09aebe571) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
