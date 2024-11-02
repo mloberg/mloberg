@@ -9,7 +9,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [ci(release): create goreleaser workflow that runs on tags (#137)](https://github.com/articulate/terraform-provider-ohdear/commit/38be96010719ad3e1a220e6456171ce86d8798ae) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
+* 💻 Latest commit: [feat(22): add base 22 image (#123)](https://github.com/articulate/docker-node/commit/3db30d4a89bb5917820f9206d10be4cc903ec63a) ([articulate/docker-node](https://github.com/articulate/docker-node))
 
 <img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
 
