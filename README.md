@@ -11,7 +11,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [test(client): add create release test](https://github.com/mloberg/goreleaser/commit/f8a67958e082c25c353bfab95ae45704bc917dde) ([mloberg/goreleaser](https://github.com/mloberg/goreleaser))
+* 💻 Latest commit: [fix(changelog): fix for no tags (#5272)](null) ([mloberg/goreleaser](null))
 
 ## Competencies
 
