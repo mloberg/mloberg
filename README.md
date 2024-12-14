@@ -11,7 +11,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [feat(brew): add opa](https://github.com/mloberg/dotfiles/commit/830bf5ac635650af602ca02a3f3aec26907d6e4c) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
+* 💻 Latest commit: [ci(goreleaser): use existing draft (#148)](https://github.com/articulate/terraform-provider-ohdear/commit/494cdd238d582a565d7815b62cb168c059426337) ([articulate/terraform-provider-ohdear](https://github.com/articulate/terraform-provider-ohdear))
 
 ## Competencies
 
