@@ -11,7 +11,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [Quick Writing Tips](https://mlo.io/blog/2020/12/08/quick-writing-tips/)
-* 💻 Latest commit: [feat(vault)!: remove support for ENCRYPTED_VAULT_TOKEN (#251)](https://github.com/articulate/docker-bootstrap/commit/1837d21bafcecf715ae8e3fff428e70f21a1b8a3) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
+* 💻 Latest commit: [fix(18-bullseye-slim): pin node to 10 (#125)](https://github.com/articulate/docker-node/commit/eb1b94d90168a022a2e33760c527d579da187940) ([articulate/docker-node](https://github.com/articulate/docker-node))
 
 ## Competencies
 
