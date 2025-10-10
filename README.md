@@ -11,7 +11,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://mlo.io/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [feat(18): remove Node 18 images (#135)](https://github.com/articulate/docker-node/commit/a8fc00daac255e8e9dfbf44e65842f2931209c5b) ([articulate/docker-node](https://github.com/articulate/docker-node))
+* 💻 Latest commit: [style: prettier tailwind changes](https://github.com/mloberg/mlo.io/commit/f47da2f1bb474d05dcd59096b7eb22a5bde3db91) ([mloberg/mlo.io](https://github.com/mloberg/mlo.io))
 
 ## Competencies
 
