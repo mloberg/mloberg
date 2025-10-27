@@ -1,33 +1,18 @@
 #!/usr/bin/env bash
 set -eux
 
-# grab latest post
-feed=$(curl -sL https://mlo.io/feed.json)
-title=$(echo "$feed" | jq -r '.posts[0].title')
-link=$(echo "$feed" | jq -r '.posts[0].link')
-
-sed -i -E "s~Latest post: .*~Latest post: [$title]($link)~" README.md
+# grab latest blog post
+post=$(curl -sL https://mlo.io/feed.json | jq -r '.posts[0] | "[\(.title)](\(.link))"')
+sed -i -E "s~Latest post: .*~Latest post: $post~" README.md
 
 # update latest commit
-latest=$(curl -s "https://api.github.com/users/mloberg/events?per_page=100" | jq -r '[
-    .[] |
-    select(.type == "PushEvent") |
-    select(.repo.name != "mloberg/mloberg") |
-    select(.repo.name != "mloberg/.github") |
-    .repo as $repo | (
-        .payload.commits[] |
-        select(.message | startswith("Merge") | not) |
-        select(.author.name | contains("[bot]") | not) |
-        { repo: $repo, commit: . }
-    )
-][0]')
-[ "$latest" == "null" ] && exit 0
-repo_url=$(curl -s "$(echo "$latest" | jq -r '.repo.url')" | jq -r '.html_url')
-commit_url=$(curl -s "$(echo "$latest" | jq -r '.commit.url')" | jq -r '.html_url')
-
-repo=$(echo "$latest" | jq -r '.repo.name')
-commit=$(echo "$latest" | jq -r '[.commit.message | splits("\n")][0]')
-
-msg="[$commit]($commit_url) ([$repo]($repo_url))"
-
-sed -i -E "s~Latest commit: .*~Latest commit: $msg~" README.md
+commit=$(curl -sL "https://api.github.com/search/commits?q=author:mloberg&sort=author-date&order=desc&page=1" | jq -r '[
+    .items[] |
+    select(.repository.full_name != "mloberg/mloberg") |
+    select(.repository.full_name != "mloberg/.github") |
+    select(.commit.message | startswith("Merge") | not)
+][0] |
+. + { message: .commit.message | split("\n") | first } |
+"[\(.message)](\(.html_url)) ([\(.repository.full_name)](\(.repository.html_url)))"
+')
+sed -i -E "s~Latest commit: .*~Latest commit: $commit~" README.md
