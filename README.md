@@ -11,7 +11,7 @@ Experience.
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://mlo.io/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [chore(scripts): bump default awscli version to 2.31.20 (#290)](https://github.com/articulate/docker-bootstrap/commit/96d5cd0b0afe968167168d501509d1aa8788fba4) ([articulate/docker-bootstrap](https://github.com/articulate/docker-bootstrap))
+* 💻 Latest commit: [sync more zed extensions](https://github.com/mloberg/dotfiles/commit/265bc9fa9ff15f2c07b504951caaa8ccf0a6e7ea) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
 ## Competencies
 
