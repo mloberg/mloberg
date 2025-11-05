@@ -3,7 +3,7 @@
 <img align="right" alt="Dance" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrdzZsZDVpaGp2MXRyY20yajA4OHdnZXl0ZXhuN2h2dnJza2w3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AYoT533kGFkeQ/giphy.gif">
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-@ivorisoutdoors.com-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/ivorisoutdoors.com)
-[![Blog](https://img.shields.io/badge/blog-mlo.io-green?style=for-the-badge&logo=jekyll)](https://mlo.io)
+[![Blog](https://img.shields.io/badge/blog-ivorisoutdoors.com-green?style=for-the-badge&logo=jekyll)](https://ivorisoutdoors.com/)
 
 Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experience.
 

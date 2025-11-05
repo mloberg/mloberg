@@ -2,7 +2,7 @@
 set -eux
 
 # grab latest blog post
-post=$(curl -sL https://mlo.io/feed.json | jq -r '.posts[0] | "[\(.title)](\(.link))"')
+post=$(curl -sL https://ivorisoutdoors.com/feed.json | jq -r '.posts[0] | "[\(.title)](\(.link))"')
 sed -i -E "s~Latest post: .*~Latest post: $post~" README.md
 
 # update latest commit
