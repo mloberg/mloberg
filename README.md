@@ -1,15 +1,14 @@
 # hello world 👋
 
-<img align="right" alt="Thumbs up" src="https://media.giphy.com/media/3oEjHFOscgNwdSRRDy/giphy.gif">
+<img align="right" alt="Dance" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrdzZsZDVpaGp2MXRyY20yajA4OHdnZXl0ZXhuN2h2dnJza2w3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AYoT533kGFkeQ/giphy.gif">
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-@mloberg.bsky.social-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/mloberg.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@ivorisoutdoors.com-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/ivorisoutdoors.com)
 [![Blog](https://img.shields.io/badge/blog-mlo.io-green?style=for-the-badge&logo=jekyll)](https://mlo.io)
 
-Hi, I'm Matt. I'm a software engineering manager focusing on DevOps and Developer
-Experience.
+Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experience.
 
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
-* 🏹 Currently: Engineering Manager, DevEx at [Articulate](https://articulate.com/company/careers)
+* 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
 * ✏️ Latest post: [From Jekyll to Hugo](https://mlo.io/blog/2025/01/26/from-jekyll-to-hugo/)
 * 💻 Latest commit: [sync more zed extensions](https://github.com/mloberg/dotfiles/commit/265bc9fa9ff15f2c07b504951caaa8ccf0a6e7ea) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
