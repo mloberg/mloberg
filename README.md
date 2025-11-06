@@ -9,8 +9,8 @@ Hi, I'm Ivor. I'm a software engineer focusing on DevOps and Developer Experienc
 
 * 😄 Pronouns: [he/him](https://pronoun.is/he)
 * 🏹 Currently: Sr Developer Experience Engineer II at [Articulate](https://articulate.com/company/careers)
-* ✏️ Latest post: [From Jekyll to Hugo](https://mlo.io/blog/2025/01/26/from-jekyll-to-hugo/)
-* 💻 Latest commit: [sync more zed extensions](https://github.com/mloberg/dotfiles/commit/265bc9fa9ff15f2c07b504951caaa8ccf0a6e7ea) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
+* ✏️ Latest post: [From Jekyll to Hugo](https://ivorisoutdoors.com/blog/2025/01/26/from-jekyll-to-hugo/)
+* 💻 Latest commit: [add Obsidian](https://github.com/mloberg/dotfiles/commit/628d2f2571f42b420f13d6fa70f2f06d4e808b45) ([mloberg/dotfiles](https://github.com/mloberg/dotfiles))
 
 ## Competencies
 
