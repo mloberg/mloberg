@@ -4,7 +4,7 @@ on:
   workflow_dispatch: ~
   schedule:
     # https://crontab.guru/daily
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   update:
@@ -17,7 +17,7 @@ jobs:
         run: |-
           git diff
           git config user.name "GitHub Actions"
-          git config user.email mloberg@users.noreply.github.com
+          git config user.email ivorisoutdoors@users.noreply.github.com
           git add README.md
           git commit -m "update README with latest links" || exit 0
           git push

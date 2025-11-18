@@ -6,10 +6,10 @@ post=$(curl -sL https://ivorisoutdoors.com/feed.json | jq -r '.posts[0] | "[\(.t
 sed -i -E "s~Latest post: .*~Latest post: $post~" README.md
 
 # update latest commit
-commit=$(curl -sL "https://api.github.com/search/commits?q=author:mloberg&sort=author-date&order=desc&page=1" | jq -r '[
+commit=$(curl -sL "https://api.github.com/search/commits?q=author:ivorisoutdoors&sort=author-date&order=desc&page=1" | jq -r '[
     .items[] |
-    select(.repository.full_name != "mloberg/mloberg") |
-    select(.repository.full_name != "mloberg/.github") |
+    select(.repository.full_name != "ivorisoutdoors/ivorisoutdoors") |
+    select(.repository.full_name != "ivorisoutdoors/.github") |
     select(.commit.message | startswith("Merge") | not)
 ][0] |
 . + { message: .commit.message | split("\n") | first } |
